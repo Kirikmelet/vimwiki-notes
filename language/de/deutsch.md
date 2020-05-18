@@ -1,0 +1,6 @@
+= Allgemeines Indeks fur Deutschsprechen =
+== 2020-03-20 ==
+==== [[../language|Index]] ====
+
+- [[artikelen|Bestimmte und unbestimmte Artikel]] - 2020-03-20
+- [[pronomen|Pronomen]] - 2020-03-20

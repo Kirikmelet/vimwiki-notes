@@ -18,5 +18,5 @@
 
 - [3D Shapes](shapes.md)
 - [2D Shapes](2d_shapes.md)
-- [Parabolas](parabolas) - 2020-03-30
+- [Parabolas](parabola.md) - 2020-03-30
 - [Quadratic Equations](quadratic_cheats.md)2020-05-06

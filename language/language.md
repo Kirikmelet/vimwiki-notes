@@ -3,9 +3,9 @@
 
 Index for language notes
 
-- [日本語][jp/00jp.md]
+- [日本語](jp/00jp.md)
 
-- [[nl/nederlands|Nederlands]]
+- [Nederlands](nl/nederlands)
 
 - [[de/deutsch|Deutsch]]
 

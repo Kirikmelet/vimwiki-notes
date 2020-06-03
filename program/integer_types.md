@@ -1,10 +1,8 @@
-= Integer Types =
-== 2020-03-17 ==
-==== [[Programming_Notes|Index]] ====
+# Integer Types
+## 2020-03-17
 
------
 | *Type*         | *Size*    | *Value*                                              | *Decimal Places* |
-| ---            | ---       | --                                                   | ---              |
+| ---            | ---       | ---                                                  | ---              |
 | void           | 0         | 0                                                    | 0                |
 | char           | 1 byte    | -128 - 127 or 0-255                                  | 0                |
 | unsigned char  | 1 byte    | 0-255                                                | 0                |
@@ -19,4 +17,3 @@
 | double         | 8 bytes   | 2.3E-308 to 1.7E+308                                 | 15               |
 | long double    | 10 bytes  | 3.4E-4932 to 1.1E+4932                               | 19               |
 
-----

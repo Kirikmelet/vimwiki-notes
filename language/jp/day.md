@@ -1,5 +1,5 @@
 ---
-mainfont: Noto Sans JP
+mainfont: Noto Sans CJK JP
 ---
 # Day
 
@@ -9,11 +9,15 @@ mainfont: Noto Sans JP
 
 | English | Hiragana | Kanji | Romanji |
 | ---     | ---      | ---   | ---     |
+| Time    | じかん   | 時間  | Jikan   |
 | Exactly | ちょうど | NULL  | Cyoudo  |
+| Around  | ごろ     | NULL  | Goro    |
 | Hour    | じ       | 時    | Ji      |
 | Minute  | ぷん     | 分    | Pun     |
 | A.M     | ごぜん   | 午前  | Gozen   |
 | P.M     | ごご     | 午後  | Gogo    |
+| Cloudy  | くもり   | NULL  | Kumori  |
+| Daytime | ひる     | 昼    | Hiru    |
 
 ## Actions
 
@@ -23,3 +27,4 @@ mainfont: Noto Sans JP
 | Lunch     | ひるごはん | 昼ご飯   | Hirugohan |
 | Lunch     | べんとう　 | 弁当     | Bentou    |
 | Dinner    | ばんごはん | 晩ごはん | Bangohan  |
+

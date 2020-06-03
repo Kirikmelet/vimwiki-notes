@@ -1,5 +1,5 @@
 ---
-mainfont: Noto Sans JP
+mainfont: Noto Sans CJK JP
 ---
 # Food And Drinks
 **2020-05-05**
@@ -35,6 +35,8 @@ None!
 | Spill      | NULL  | こぼす   | NULL     | Kobosu  |
 | Tastes Bad | NULL  | まずい   | NULL     | Mazui   |
 | Sweet      | 甘い  | あまい   | NULL     | Amai    |
+| Spicy      | 辛い  | からい   | NULL     | Karai   |
+
 
 
 ## Food

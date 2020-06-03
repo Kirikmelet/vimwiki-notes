@@ -24,6 +24,7 @@ Contains:
 - [Math](math/math.md)                       
 - [Programming Notes](program/programmingnotes.md)
 - [Manjaro Linux](linux_manjaro/manjaro.md)
+- [Youtube](yt/ideas.md)
 - [Kali Linux](linux_kali/linux_kali.md) - General Notes for Kali Linux
 - [General Notes](general/general.md) - General Notes for basically anything
 

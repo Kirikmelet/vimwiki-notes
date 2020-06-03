@@ -1,3 +1,7 @@
+---
+mainfont: Noto Sans CJK JP
+---
+
 # Language
 **2020-03-05**
 

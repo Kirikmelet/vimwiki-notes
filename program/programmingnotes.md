@@ -3,7 +3,7 @@
 ## General
 	* [Switch Cases](Switch_Cases.md)
 
-# Python 
+## Python 
 	* [Python Syntax](Python_general_syntax.md)
 
 ## C

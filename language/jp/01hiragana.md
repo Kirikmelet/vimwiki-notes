@@ -1,5 +1,6 @@
 ---
-mainfont: Noto Sans JP
+geometry: margin=2cm
+mainfont: Noto Sans CJK JP
 ---
 
 # Hiragana List

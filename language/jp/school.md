@@ -1,5 +1,5 @@
 ---
-mainfont: Noto Sans JP
+mainfont: Noto Sans CJK JP
 ---
 # School
 

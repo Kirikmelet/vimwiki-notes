@@ -42,11 +42,15 @@ None!
 ## Food
 
 ### Domestic
-| English  | Kanji    | Hiragana | Romanji  |
-| ---      | ---      | ---      | ---      |
-| Rice     | ご飯     | ごはん   | Gohan    |
-| Teriyaki | 照り焼き | てりやき | Teriyaki |
-| Sushi    | 寿司     | すし     | Sushi    |
+| English   | Kanji    | Hiragana | Romanji  |
+| ---       | ---      | ---      | ---      |
+| Rice      | ご飯     | ごはん   | Gohan    |
+| Teriyaki  | 照り焼き | てりやき | Teriyaki |
+| Sushi     | 寿司     | すし     | Sushi    |
+| Fruit     | 果物     | くだもの | Kudamono |
+| Vegetable | 野菜     | やさい   | Yasai    |
+| Meat      | 肉       | にく     | Niku     |
+| Fish      | 魚       | さかな   | Sakana   |
 
 ### Foreign
 | English | Katakana | Romanji |

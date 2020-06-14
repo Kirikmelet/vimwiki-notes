@@ -14,7 +14,7 @@ mainfont: Noto Sans CJK JP
 | Older Sister      | 姉    | あね       |
 | Sisters           | 姉妹  | しまい     |
 | Siblings/Brothers | 兄弟  | きょうだい |
-| Parents           | 両親  | りょしん   |
+| Parents           | 両親  | りょうしん |
 | Child             | 子供  | こども     |
 | Mother            | 母    | はは       |
 | Father            | 父    | ちち       |

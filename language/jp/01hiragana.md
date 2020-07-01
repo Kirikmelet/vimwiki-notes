@@ -7,7 +7,7 @@ mainfont: Noto Sans CJK JP
 
 **2020-03-05 | 2020-03-15**
 
-| Hiragana  | Romanji     | Katakana |
+| Hiragana  | Romaji     | Katakana |
 | :-------- | :---------- | -------- |
 | **Sp**    |             |          |
 | ん        | n           | ン       |

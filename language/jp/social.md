@@ -7,7 +7,7 @@ mainfont: Noto Sans CJK JP
 
 ## List
 
-| English                      | Hiragana                     | Kanji | Romanji                    |
+| English                      | Hiragana                     | Kanji | Romaji                     |
 | ---                          | ---                          | ---   | ---                        |
 | Healthy/Fine                 | げんき                       | 元気  | Genki                      |
 | Nice to meet you             | はじめまして                 | NULL  | NULL                       |
@@ -31,6 +31,7 @@ mainfont: Noto Sans CJK JP
 | Good morning                 | おはよう                     | NULL  | Ohayou                     |
 | Good morning (Formal)        | おはようございます           | NULL  | Ohayougozaimasu            |
 | Good evening                 | こんばんは                   | NULL  | Konban(ha)wa               |
+| Welcome                      |                              |       | Youkoso                    |
 
 ## Greetings
 

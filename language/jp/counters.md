@@ -7,7 +7,7 @@ mainfont: Noto Sans CJK JP
 
 
 ## Verb
-| English  | Hiragana | Kanji | Romanji |
+| English  | Hiragana | Kanji | Romaji |
 | ---      | ---      | ---   | ---     |
 | How Much | いくら   | NULL  | Ikura   |
 
@@ -16,3 +16,4 @@ mainfont: Noto Sans CJK JP
 | General              | (JP_N)つ | 一つ　(ひとつ) |
 | Birds, Rabbits       | N羽      | 一羽 (いちわ)  |
 | Small, Round Objects | N個      | 一個　(いちこ) |
+| Books                | N冊      | Satsu          |

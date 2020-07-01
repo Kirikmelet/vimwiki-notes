@@ -1,9 +1,8 @@
-= Voornaamworden =
-== 2020-03-20 ==
-==== [[nederlands|Index]] ====
+# Vornaamworden
+## 2020-03-20 
 
-----
 | *Pronouns*       | *Voornaamworden*   |
+| ---              | ---                |
 | I am             | Ik ben             |
 | You are          | Je/jij ben         |
 | It is            | Het is             |
@@ -40,4 +39,3 @@
 | She speaks       | Zij/zu spreekt     |
 | We speak         | Wij/we spreken     |
 | They speak       | Zij/ze spreken     |
-----

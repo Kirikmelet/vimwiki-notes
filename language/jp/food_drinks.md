@@ -7,13 +7,13 @@ mainfont: Noto Sans CJK JP
 ## Places
 
 ## Domestic
-| English   | Kanji | Hiragana   | Romanji  |
+| English   | Kanji | Hiragana   | Romaji  |
 | ---       | ---   | ---        | ---      |
 | Cafeteria | 食堂  | しょくどう | Shokudou |
 
 ## Foreign
 
-| English   | Katakana | Romanji |
+| English   | Katakana | Romaji |
 | ---       | ---      | ---     |
 
 ## Items
@@ -23,12 +23,12 @@ mainfont: Noto Sans CJK JP
 None!
 
 ### Foreign
-| English | Katakana | Romanji |
+| English | Katakana | Romaji |
 | ---     | ---      | ---     |
 | Menu    | メニユー | Meniyu  |
 
 ## Verbs/Actions
-| English    | Kanji | Hiragana | Katakana | Romanji |
+| English    | Kanji | Hiragana | Katakana | Romaji |
 | ---        | ---   | ---      | ---      |         |
 | Drink      | 飲み  | のみ     | NULL     | Nomi    |
 | Eat        | 食べ  | たべ     | NULL     | Tabe    |
@@ -42,7 +42,7 @@ None!
 ## Food
 
 ### Domestic
-| English   | Kanji    | Hiragana | Romanji  |
+| English   | Kanji    | Hiragana | Romaji  |
 | ---       | ---      | ---      | ---      |
 | Rice      | ご飯     | ごはん   | Gohan    |
 | Teriyaki  | 照り焼き | てりやき | Teriyaki |
@@ -53,7 +53,7 @@ None!
 | Fish      | 魚       | さかな   | Sakana   |
 
 ### Foreign
-| English | Katakana | Romanji |
+| English | Katakana | Romaji |
 | ---     | ---      | ---     |
 | Bread   | パン     | Pan     |
 | Steak   | ステーキ | Suteki  |
@@ -63,10 +63,10 @@ None!
 ## Drinks
 
 ### Domestic
-| English | Kanji | Hiragana | Romanji |
+| English | Kanji | Hiragana | Romaji |
 | Water   | 水    | みず     | Mizu   |
 | Tea     | 茶    | ちゃ     | (o)Cha |
 
 ### Foreign
-| English | Katakana | Romanji |
+| English | Katakana | Romaji |
 | ---     | ---      | ---     |

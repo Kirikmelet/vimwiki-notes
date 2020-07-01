@@ -7,7 +7,7 @@ mainfont: Noto Sans CJK JP
 
 ## Time
 
-| English | Hiragana | Kanji | Romanji |
+| English | Hiragana | Kanji | Romaji |
 | ---     | ---      | ---   | ---     |
 | Time    | じかん   | 時間  | Jikan   |
 | Exactly | ちょうど | NULL  | Cyoudo  |
@@ -21,7 +21,7 @@ mainfont: Noto Sans CJK JP
 
 ## Actions
 
-| English   | Hiragana   | Kanji    | Romanji   |
+| English   | Hiragana   | Kanji    | Romaji   |
 | ---       | ---        | ---      | ---       |
 | Breakfest | あさごはん | 朝ご飯   | Asagohan  |
 | Lunch     | ひるごはん | 昼ご飯   | Hirugohan |
@@ -30,11 +30,11 @@ mainfont: Noto Sans CJK JP
 
 ## Date
 
-| English              | Hiragana   | Kanji  | Romanji   |
+| English              | Hiragana   | Kanji  | Romaji    |
 | ---                  | ---        | ---    | ---       |
 | Today                | きょう     | 今日   | Kyou      |
 | Yesterday            | きのう     | 昨日　 | Kinou     |
-| Tomorrow             | あす       | 明日   | Atsu      |
+| Tomorrow             | あした     | 明日   | Ashita    |
 | Weekend              | しゅうまつ | 週末   | Shoumatsu |
 | Weekday              | へいじつ　 | 平日   | Heijitsu  |
 | Day after tomorrow   | あさって   | 明後日 | Asatte    |
@@ -43,7 +43,7 @@ mainfont: Noto Sans CJK JP
 
 ## Days of the week
 
-| English   | Hiragana   | Kanji  | Romanji    |
+| English   | Hiragana   | Kanji  | Romaji    |
 | ---       | ---        | ---    | ---        |
 | Sunday    | にちよび   | 日曜日 | Nichiyobi  |
 | Monday    | げつようび | 月曜日 | Getsuyoubi |

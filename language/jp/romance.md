@@ -3,6 +3,6 @@
 
 ## Verbs
 
-| English | Hiragana | Katakana | Kanji | Romanji |
+| English | Hiragana | Katakana | Kanji | Romaji |
 | ---     | ---      | ---      | ---   | ---     |
 | Like    | すき     | NULL     | 好き  | Suki    |

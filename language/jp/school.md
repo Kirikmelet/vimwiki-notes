@@ -7,7 +7,7 @@ mainfont: Noto Sans CJK JP
 
 ## Persons
 
-| English | Hiragana | Kanji | Romanji |
+| English | Hiragana | Kanji | Romaji |
 | Teacher | せんせい | 先生  | Sensei  |
 | Student | がくせい | 学生  | Gakusei |
 

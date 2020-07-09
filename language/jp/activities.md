@@ -13,6 +13,7 @@
 | Engish   | Hiragana | Kanji | Romaji |
 | ---      | ---      | ---   | ---    |
 | How much | いつN    | NULL  | Itsu N |
+| How old  | いくつ   | NULL  | Ikutsu |
 
 
 ## Size
@@ -41,22 +42,29 @@
 | Behind/back    | うしろ   | 後ろ  | Ushiro   |
 | Corner (Far)   | かたすみ | 片隅  | Katasumi |
 | Corner         | すみ     | 隅    | Sumi     |
-|                |          |       |          |
+| Here           | こちら   | NULL  | Kochira  |
 
 
 ## Actions
 
-| English    | Hiragana | Kanji  | Romaji  |
-| ---        | ---      | ---    | ---      |
-| Work/Labor | はたらき | 働き   | Hataraki |
-| Go         | き       | 来     | Ki       |
-| Work       | しごと　 | 仕事   | Shigoto  |
-| Talk       | はなし   | 話し   | Hanashi  |
-| Buy        | かい     | 買い   | Kai      |
-| Study      | べんきょ | 勉強   | Benkyou  |
-| Busy       | いそがし | 忙しい | Isogashi |
-| Come from  | から　   | NULL   | Kara     |
-| Walking    |          |        | Sanpo    |
-| Writing    |          |        | Kaki     |
-| Drawing    |          |        | Eiga/Ga  |
+| English         | Hiragana | Kanji  | Romaji      |
+| ---             | ---      | ---    | ---         |
+| Work/Labor      | はたらき | 働き   | Hataraki    |
+| Go              | き       | 来     | Ki          |
+| Work            | しごと　 | 仕事   | Shigoto     |
+| Talk            | はなし   | 話し   | Hanashi     |
+| Buy             | かい     | 買い   | Kai         |
+| Study           | べんきょ | 勉強   | Benkyou     |
+| Busy            | いそがし | 忙しい | Isogashi    |
+| Come from       | から　   | NULL   | Kara        |
+| Walking         | さんぽ   | 散歩   | Sanpo       |
+| Swimming        | およぎ   | 泳ぎ   | Oyogi       |
+| Writing         | かき     | 書き   | Kaki        |
+| Running         | はしり   | 走り   | Hashiri     |
+| Reading         | よみ　   | 読み   | Yomi        |
+| Learning        | ならい   | 習い   | Narai       |
+| Listen          | きき     | 聞き   | Kiki        |
+| Drawing         | えがき   | 描い   | Eigaki/Gaki |
+| Playing (Music) | あそび　 | 遊び   | Asobi       |
+| Taking          | とり     | 撮り   | Tori        |
 

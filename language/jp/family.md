@@ -5,24 +5,39 @@ mainfont: Noto Sans CJK JP
 
 **2020-05-05**
 
-| English           | Kanji | Hiragana   |
-| ---               | ---   | ---        |
-| Family            | 家族  | かぞく     |
-| Little Sister     | 妹    | いもうと   |
-| Little Brother    | 弟　  | おとうと   |
-| Older Brother     | 兄    | にい       |
-| Older Sister      | 姉    | あね       |
-| Sisters           | 姉妹  | しまい     |
-| Siblings/Brothers | 兄弟  | きょうだい |
-| Parents           | 両親  | りょうしん |
-| Child             | 子供  | こども     |
-| Mother            | 母    | はは       |
-| Father            | 父    | ちち       |
+| English           | Hiragana        | Kanji     | Romaji          |
+| ---               | ---             | ---       | ---             |
+| Family            | かぞく          | 家族      | Kazoku          |
+| Little Sister     | いもうと        | 妹        | Imouto          |
+| Little Brother    | おとうと        | 弟　      | Otouto          |
+| Older Brother     | にい            | 兄        | Nii             |
+| Older Sister      | あね            | 姉        | Anee/Nee        |
+| Sisters           | しまい          | 姉妹      | Shimai          |
+| Siblings/Brothers | きょうだい      | 兄弟      | Kyoudai         |
+| Parents           | りょうしん      | 両親      | Ryoushin        |
+| Child             | こども          | 子供      | Kodomo          |
+| Mother            | はは            | 母        | Haha            |
+| Father            | ちち            | 父        | Chichi          |
+| Son               | むすこ          | 息子      | Musuko          |
+| Daughter          | むすめ          | 娘        | Musume          |
+| Relative          | しんせき        | 親戚      | Shinseki        |
+| Grandson          | まご/まごむすこ | 孫/孫息子 | Mago/Magomusuko |
+| Grandaughter      | まごむすめ      | 孫娘      | Magomusume      |
+| Grandchildren     | おまごさん      | お孫さん  | Omagosan        |
+| Uncle             | おじ            | NULL      | Oji             |
+| Aunt              | おば            | NULL      | Oba             |
+| Cousin            | いとこ          | NULL      | Itoko           |
+| Wife              | つま            | 妻        | Tsuma           |
+| Husband           | おっと          | 夫        | Otto            |
+
 
 ## Formal Terms
-| English       | Kanji    | Hiragana   |
-| ---           | ---      | ---        |
-| Mother        | お母さん | おかあさん |
-| Father        | お父さん | おとうさん |
-| Older Sister  | お姉さん | おねさん   |
-| Older Brother | お兄さん | おにいさん |
+| English       | Hiragana   | Kanji    | Romaji   |
+| ---           | ---        | ---      | ---      |
+| Mother        | おかあさん | お母さん | Okaasan  |
+| Father        | おとうさん | お父さん | Otousan  |
+| Uncle         | おじさん   | NULL     | Ojisan   |
+| Aunt          | おばさん   | NULL     | Obasan   |
+| Older Sister  | おねえさん | お姉さん | Oneesan  |
+| Older Brother | おにいさん | お兄さん | Oniichan |
+| Children      | おこさん   | お子さん | Okosan   |

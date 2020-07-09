@@ -1,0 +1,147 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+- Bestimmte	language/de/artikelen.md	/^- Bestimmte$/;"	s
+- unBestimmte	language/de/artikelen.md	/^- unBestimmte$/;"	s
+2020-02-28	math/right_triangle_trigonomtry-sat.md	/^## 2020-02-28$/;"	s
+2020-03-17	program/integer_types.md	/^## 2020-03-17$/;"	s
+2020-03-20	language/nl/nederlands.md	/^## 2020-03-20$/;"	s
+2020-03-20	language/nl/voornaamworden.md	/^## 2020-03-20 $/;"	s
+2D Shapes	math/2d_shapes.md	/^# 2D Shapes$/;"	c
+5W + 1H	language/jp/activities.md	/^## 5W + 1H$/;"	s
+ALDL	projects/aldl.md	/^# ALDL$/;"	c
+Actions	language/jp/activities.md	/^## Actions$/;"	s
+Actions	language/jp/day.md	/^## Actions$/;"	s
+Activities	language/jp/activities.md	/^# Activities$/;"	c
+Age	language/jp/age.md	/^# Age$/;"	c
+Arch Installer	projects/arch_install.md	/^# Arch Installer$/;"	c
+Basic Phrases	language/jp/basic_phrases.md	/^# Basic Phrases$/;"	c
+C	program/programmingnotes.md	/^## C$/;"	s
+Cities	language/jp/cities.md	/^# Cities$/;"	c
+Counters	language/jp/counters.md	/^# Counters$/;"	c
+Current Projects	index.md	/^## Current Projects$/;"	s
+Date	language/jp/day.md	/^## Date$/;"	s
+Day	language/jp/day.md	/^# Day$/;"	c
+Days of the week	language/jp/day.md	/^## Days of the week$/;"	s
+Directions	language/jp/activities.md	/^## Directions$/;"	s
+Domestic	language/jp/food_drinks.md	/^## Domestic$/;"	s
+Domestic	language/jp/food_drinks.md	/^### Domestic$/;"	S
+Domestic	language/jp/homes.md	/^### Domestic $/;"	S
+Domestic	language/jp/homes.md	/^### Domestic$/;"	S
+Drinks	language/jp/food_drinks.md	/^## Drinks$/;"	s
+Duolingo Comments	language/jp/comment.md	/^# Duolingo Comments$/;"	c
+Examples	language/jp/particles.md	/^## Examples$/;"	s
+Exported(Notes)	notes/exported.md	/^# Exported(Notes)$/;"	c
+Extened 5W + 1H	language/jp/activities.md	/^## Extened 5W + 1H$/;"	s
+Family	language/jp/family.md	/^# Family$/;"	c
+Food	language/jp/food_drinks.md	/^## Food$/;"	s
+Food And Drinks	language/jp/food_drinks.md	/^# Food And Drinks$/;"	c
+Foreign	language/jp/food_drinks.md	/^## Foreign$/;"	s
+Foreign	language/jp/food_drinks.md	/^### Foreign$/;"	S
+Foreign	language/jp/homes.md	/^### Foreign$/;"	S
+Formal	language/jp/sokoada.md	/^## Formal$/;"	s
+Formal Terms	language/jp/family.md	/^## Formal Terms$/;"	s
+Formality	language/jp/formality.md	/^# Formality$/;"	c
+Furniture	language/jp/homes.md	/^## Furniture$/;"	s
+Generaal Indeks voor Nederlandse	language/nl/nederlands.md	/^# Generaal Indeks voor Nederlandse$/;"	c
+General	program/programmingnotes.md	/^## General$/;"	s
+Greetings	language/jp/social.md	/^## Greetings$/;"	s
+Hiragana List	language/jp/01hiragana.md	/^# Hiragana List$/;"	c
+Homes	language/jp/homes.md	/^# Homes$/;"	c
+Index	index.md	/^# Index$/;"	c
+Integer Types	program/integer_types.md	/^# Integer Types$/;"	c
+Introduction	program/Switch_Cases.md	/^## Introduction$/;"	s
+Items	language/jp/food_drinks.md	/^## Items$/;"	s
+Japanese Numbers	language/jp/numbers.md	/^# Japanese Numbers $/;"	c
+Kali Linux Notes	linux_kali/linux_kali.md	/^# Kali Linux Notes$/;"	c
+Language	language/language.md	/^# Language$/;"	c
+List	language/jp/age.md	/^## List$/;"	s
+List	language/jp/hobbies.md	/^## List$/;"	s
+List	language/jp/money.md	/^## List$/;"	s
+List	language/jp/national.md	/^## List$/;"	s
+List	language/jp/social.md	/^## List$/;"	s
+List	language/jp/temperature.md	/^## List$/;"	s
+MDFILE	Makefile	/^MDFILE=$(fd *.md ~\/vimwiki\/)$/;"	m
+Manipulating Quadriatic and Exponential Expressions (SAT)	math/manipulating_quadriatc_exponential-sat.md	/^# Manipulating Quadriatic and Exponential Expressions (SAT)$/;"	c
+Math	math/math.md	/^# Math$/;"	c
+Math Cheatsheets	math/math.md	/^## Math Cheatsheets$/;"	s
+Me	language/jp/pronouns.md	/^## Me$/;"	s
+Money	language/jp/money.md	/^# Money$/;"	c
+Nationalities	language/jp/national.md	/^# Nationalities$/;"	c
+Notes	index.md	/^## Notes$/;"	s
+Optional Features	projects/arch_install.md	/^## Optional Features$/;"	s
+Parabolas	math/parabola.md	/^# Parabolas$/;"	c
+Particles	language/jp/particles.md	/^# Particles$/;"	c
+Persons	language/jp/school.md	/^## Persons$/;"	s
+Places	language/jp/food_drinks.md	/^## Places$/;"	s
+Places	language/jp/homes.md	/^## Places$/;"	s
+Prerequsites	projects/arch_install.md	/^## Prerequsites$/;"	s
+Programming Notes	program/programmingnotes.md	/^# Programming Notes$/;"	c
+Pronoun	language/jp/pronouns.md	/^# Pronoun$/;"	c
+Python	program/programmingnotes.md	/^## Python $/;"	s
+Quadratic Equations	math/quadratic_cheats.md	/^# Quadratic Equations$/;"	c
+Right Triangle Trigonomotry (SAT)	math/right_triangle_trigonomtry-sat.md	/^# Right Triangle Trigonomotry (SAT)$/;"	c
+Romance	language/jp/romance.md	/^# Romance$/;"	c
+SAT Notebook	math/math.md	/^## SAT Notebook$/;"	s
+School	language/jp/school.md	/^# School$/;"	c
+Size	language/jp/activities.md	/^## Size$/;"	s
+So Ko Da A	language/jp/sokoada.md	/^# So Ko Da A$/;"	c
+Social Encounters	language/jp/social.md	/^# Social Encounters$/;"	c
+Stage 2	math/right_triangle_trigonomtry-sat.md	/^## Stage 2$/;"	s
+Stage 3	math/manipulating_quadriatc_exponential-sat.md	/^## Stage 3$/;"	s
+Steps	projects/arch_install.md	/^## Steps$/;"	s
+Switch Cases	program/Switch_Cases.md	/^# Switch Cases$/;"	c
+Temperature	language/jp/temperature.md	/^# Temperature$/;"	c
+Time	language/jp/day.md	/^## Time$/;"	s
+ToDo (Archived)	index.md	/^## ToDo (Archived)$/;"	s
+Todo.sh Exported	todo/Exported(Todo).md	/^# Todo.sh Exported$/;"	c
+Verb	language/jp/counters.md	/^## Verb$/;"	s
+Verbs	language/jp/romance.md	/^## Verbs$/;"	s
+Verbs/Actions	language/jp/food_drinks.md	/^## Verbs\/Actions$/;"	s
+Vertexes	math/parabola.md	/^## Vertexes$/;"	s
+Videos	yt/videos.md	/^# Videos$/;"	c
+Vornaamworden	language/nl/voornaamworden.md	/^# Vornaamworden$/;"	c
+Workings	math/right_triangle_trigonomtry-sat.md	/^### Workings$/;"	S
+YT Ideas	yt/ideas.md	/^# YT Ideas$/;"	c
+You	language/jp/pronouns.md	/^## You$/;"	s
+YouTube Index	yt/index.md	/^# YouTube Index$/;"	c
+YouTube Scheduling	yt/schedule.md	/^# YouTube Scheduling$/;"	c
+YouTube Tools	yt/tools.md	/^# YouTube Tools$/;"	c
+[Return](../Index)	linux_kali/linux_kali.md	/^#### [Return](..\/Index)$/;"	t
+[Return](../index.md)	projects/arch_install.md	/^#### [Return](..\/index.md)$/;"	t
+[https://forum.duolingo.com/comment/27602391](https://forum.duolingo.com/comment/27602391)	language/jp/comment.md	/^## [https:\/\/forum.duolingo.com\/comment\/27602391](https:\/\/forum.duolingo.com\/comment\/2760/;"	s
+[https://forum.duolingo.com/comment/27766388](https://forum.duolingo.com/comment/27766388)	language/jp/comment.md	/^## [https:\/\/forum.duolingo.com\/comment\/27766388](https:\/\/forum.duolingo.com\/comment\/2776/;"	s
+all	Makefile	/^build all pdf:$/;"	t
+build	Makefile	/^build all pdf:$/;"	t
+done.txt	todo/done.txt.md	/^# done.txt$/;"	c
+mainfont: Noto Sans	yt/ideas.md	/^mainfont: Noto Sans$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/00jp.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/01hiragana.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/basic_phrases.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/cities.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/comment.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/counters.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/day.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/family.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/food_drinks.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/formality.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/numbers.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/particles.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/pronouns.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/school.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/social.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/jp/sokoada.md	/^mainfont: Noto Sans CJK JP$/;"	s
+mainfont: Noto Sans CJK JP	language/language.md	/^mainfont: Noto Sans CJK JP$/;"	s
+modified: '2020-05-11T08:05:20.712Z'	notes/exported.md	/^modified: '2020-05-11T08:05:20.712Z'$/;"	s
+pdf	Makefile	/^build all pdf:$/;"	t
+| 90     | 1       | 0       | ?       |	math/special_angles.md	/^| 90     | 1       | 0       | ?       |$/;"	s
+| Dativ     | dem      | der     | dem    | der    |	language/de/artikelen.md	/^| Dativ     | dem      | der     | dem    | der    |$/;"	s
+| Dativ     | einem    | einer   | einem  | NULL   |	language/de/artikelen.md	/^| Dativ     | einem    | einer   | einem  | NULL   |$/;"	s
+| else:           | Makes an else statement  |	program/Python_general_syntax.md	/^| else:           | Makes an else statement  |$/;"	s
+| float  | float formatter   |	program/Python_general_syntax.md	/^| float  | float formatter   |$/;"	s
+日本語インデックス (Japanese Index)	language/jp/00jp.md	/^# 日本語インデックス (Japanese Index)$/;"	c

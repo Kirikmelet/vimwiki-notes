@@ -5,6 +5,15 @@ mainfont: Noto Sans CJK JP
 
  **2020-05-09**
 
+## Seasons
+| English    | Hiragana | Kanji | Romaji |
+| Spring     | はる     | 春    | Haru   |
+| Summer     | なつ     | 夏    | Natsu  |
+| Fall       | あき     | 秋    | Aki    |
+| Winter     | ふゆ     | 冬    | Fuyu   |
+| Wet Season | うき     | 浮き  | Uki    |
+| Dry Season | かんき   | 乾季  | Kanki  |
+ 
 ## Time
 
 | English | Hiragana | Kanji | Romaji |

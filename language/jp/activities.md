@@ -43,6 +43,7 @@
 | Corner (Far)   | かたすみ | 片隅  | Katasumi |
 | Corner         | すみ     | 隅    | Sumi     |
 | Here           | こちら   | NULL  | Kochira  |
+| At home        | ざいたく | 在宅  | Zaitaku  |
 
 
 ## Actions

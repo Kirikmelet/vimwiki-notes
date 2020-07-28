@@ -31,7 +31,10 @@ mainfont: Noto Sans CJK JP
 | Good morning                 | おはよう                     | NULL  | Ohayou                     |
 | Good morning (Formal)        | おはようございます           | NULL  | Ohayougozaimasu            |
 | Good evening                 | こんばんは                   | NULL  | Konban(ha)wa               |
-| Welcome                      |                              |       | Youkoso                    |
+| Welcome                      | ようこそ                     | NULL  | Youkoso                    |
+| Welcome Home                 | おかえりなさい               | NULL  | Okaerinasai                |
+| I'm Home                     | ただいま                     | NULL  | Tadaima                    |
+| いってれ
 
 ## Greetings
 

@@ -24,6 +24,7 @@ mainfont: Noto Sans CJK JP
 | Grandson          | まご/まごむすこ | 孫/孫息子 | Mago/Magomusuko |
 | Grandaughter      | まごむすめ      | 孫娘      | Magomusume      |
 | Grandchildren     | おまごさん      | お孫さん  | Omagosan        |
+| Grandfather       | そふ            | 祖父      | Sofu            |
 | Uncle             | おじ            | NULL      | Oji             |
 | Aunt              | おば            | NULL      | Oba             |
 | Cousin            | いとこ          | NULL      | Itoko           |
@@ -41,3 +42,11 @@ mainfont: Noto Sans CJK JP
 | Older Sister  | おねえさん | お姉さん | Oneesan  |
 | Older Brother | おにいさん | お兄さん | Oniichan |
 | Children      | おこさん   | お子さん | Okosan   |
+| Husband       | ごしゅじん | ご主人   | Goshujin |
+| WIfe          | おくさん   | 奥さん   | Okusan   |
+
+## Neutral Terms
+| English | Hiragana | Kanji | Romaji    |
+| ---     | ---      | ---   | ---       |
+| Mother  | ははおや | 母親  | Hahaoya   |
+| Father  | ちちおや | 父親  | Chichioya |

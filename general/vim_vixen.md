@@ -1,8 +1,7 @@
-= Vim Vixen Key Bindings =
-== 2020-02-17 ==
-==== [[general|Index]] ====
+# Vim Vixin Keybindings
+**2020-02-17**
 
-Basic usage
+## Basic usage
 
 - h, j, k, l: scroll left, down, right, up, and right
 - j, k: scroll vertically

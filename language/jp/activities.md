@@ -29,21 +29,30 @@
 
 ## Directions
 
-| English        | Hiragana | Kanji | Romaji   |
-| ---            | ---      | ---   | ---      |
-| Left           | ひだり   | 右    | Hidari   |
-| Right          | みぎ     | 左    | Migi     |
-| Up/on top      | うえ     | 上    | Ue       |
-| On             | なか     | 中    | Naka     |
-| Bottom         | した     | 下    | Shita    |
-| Down           | げ       | 下    | Ge       |
-| Between        | ま       | 間    | Ma       |
-| Next Door/Next | となり   | 隣    | Tonari   |
-| Behind/back    | うしろ   | 後ろ  | Ushiro   |
-| Corner (Far)   | かたすみ | 片隅  | Katasumi |
-| Corner         | すみ     | 隅    | Sumi     |
-| Here           | こちら   | NULL  | Kochira  |
-| At home        | ざいたく | 在宅  | Zaitaku  |
+| English          | Hiragana | Kanji | Romaji   |
+| ---              | ---      | ---   | ---      |
+| Left             | ひだり   | 右    | Hidari   |
+| Right            | みぎ     | 左    | Migi     |
+| Up/on top        | うえ     | 上    | Ue       |
+| On               | なか     | 中    | Naka     |
+| Bottom           | した     | 下    | Shita    |
+| Down             | げ       | 下    | Ge       |
+| Between          | ま       | 間    | Ma       |
+| Next Door/Next   | となり   | 隣    | Tonari   |
+| Behind/back      | うしろ   | 後ろ  | Ushiro   |
+| Corner (Far)     | かたすみ | 片隅  | Katasumi |
+| Corner           | すみ     | 隅    | Sumi     |
+| Here             | こちら   | NULL  | Kochira  |
+| At home (Formal) | ざいたく | 在宅  | Zaitaku  |
+
+## Cardinal Directions
+
+| English | Hiragana | Kanji | Romaji |
+| ---     | ---      | ---   | ---    |
+| North   | きた     | 北    | Kita   |
+| East    | あずま   | 東    | Azuma  |
+| South   | みなみ   | 南    | Minami |
+| West    | にし     | 西    | Nishi  |
 
 
 ## Actions

@@ -4,5 +4,5 @@
 ## Verbs
 
 | English | Hiragana | Katakana | Kanji | Romaji |
-| ---     | ---      | ---      | ---   | ---     |
-| Like    | すき     | NULL     | 好き  | Suki    |
+| ---     | ---      | ---      | ---   | ---    |
+| Like    | すき     | NULL     | 好き  | Suki   |

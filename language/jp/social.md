@@ -15,6 +15,7 @@ mainfont: Noto Sans CJK JP
 | Nice to meet you             | どうぞよろしく               | NULL  | Douzoyoroshiku             |
 | Hello (Phone)                | もうし　                     | 申し  | Moushi                     |
 | Nice to meet you (Formal)    | どうぞよろしくおねがいします | NULL  | Douzoyorshikuonegaishimasu |
+| Hello                        | こんにちは                   | NULL  | Konnichiha                 |
 | Thank you                    | ありがとう　                 | NULL  | Arigatou                   |
 | Thank you very much          | ありがとうございます         | NULL  | Arigatougozaimasu          |
 | Thank you (Formal)           | どもありがとう               | NULL  | Domoarigatou               |
@@ -25,9 +26,9 @@ mainfont: Noto Sans CJK JP
 | Who                          | だれ                         | 誰    | Dare                       |
 | Goodbye                      | さようなら                   | NULL  | Sayounara                  |
 | Bye                          | またね                       | NULL  | Matane                     |
-| Bye                          | じゃね                       | NULL  | Ja'ane                     |
+| Bye                          | じゃね                       | NULL  | Jaane                      |
 | Well then                    | では                         | NULL  | Dewa                       |
-| Well (Then)                  | じゃ                         | NULL  | Jaa'                       |
+| Well (Then)                  | じゃ                         | NULL  | Jaa                        |
 | Good morning                 | おはよう                     | NULL  | Ohayou                     |
 | Good morning (Formal)        | おはようございます           | NULL  | Ohayougozaimasu            |
 | Good evening                 | こんばんは                   | NULL  | Konban(ha)wa               |

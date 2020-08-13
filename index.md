@@ -27,6 +27,7 @@ Contains:
 - [Youtube](yt/index.md)
 - [Kali Linux](linux_kali/linux_kali.md) - General Notes for Kali Linux
 - [General Notes](general/general.md) - General Notes for basically anything
+- [Work](work/work.md) - For work
 
 ## ToDo (Archived)
 
